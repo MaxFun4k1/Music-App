@@ -1,0 +1,25 @@
+.header {
+	background: black;
+	color: rgb(15, 230, 15);
+	padding: 30px;
+	margin: 15px;
+	border-radius: 50px;
+}
+
+.menu {
+	margin-bottom: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.menuList {
+	margin-right: 30px;
+
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 20px;
+
+	list-style: none;
+}

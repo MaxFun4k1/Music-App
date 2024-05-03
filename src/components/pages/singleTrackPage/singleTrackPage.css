@@ -1,0 +1,17 @@
+.main {
+	color: rgb(15, 230, 15);
+	padding: 30px;
+	margin: 15px;
+	white-space: nowrap;
+}
+
+.main-item {
+	white-space: normal;	
+	display: inline-block;
+	width: 40%;
+	vertical-align: top;
+}
+
+p {
+	padding: 30px;
+}

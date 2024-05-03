@@ -1,0 +1,10 @@
+.dropdown_open {
+	list-style-type: none;
+	position: absolut; 
+	top: 42px; 
+	max-height: 200px; 
+	width: 1150; 
+	max-width: 98%; 
+	background: #222323; 
+	overflow-y: scroll
+}

@@ -1,0 +1,8 @@
+.track {
+	margin: 10px;
+	padding: 25px;
+	display: flex;
+	align-items: center;
+	background: #222323;
+	border-radius: 50px;
+}
